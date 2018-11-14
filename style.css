@@ -1,0 +1,48 @@
+body{
+  background: url(back.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.hero{
+  color: white;
+  margin-top: 10%;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: -.05em;
+  line-height: 1.23em;
+  font-family: 'Lustria', serif;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.small{
+  color: white;
+  margin-top: 10%;
+  text-align: center;
+  font-size: 5px;
+  letter-spacing: -.05em;
+  line-height: 1.23em;
+  font-family: 'Lustria', serif;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.ima{
+  height: 300px;
+  width: 300px;
+}
+
+.cursive{
+  color: white;
+  margin-top: 10%;
+  text-align: center;
+  font-size: 150px;
+  /* letter-spacing: -.05em; */
+  line-height: 1.23em;
+  font-family: 'Great Vibes', cursive;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.img-thumbnail {
+  border: 2px solid dimgrey;
+  /* border: 0 none; */
+  box-shadow: none;
+  background: darkblue;
+}
